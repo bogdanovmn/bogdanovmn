@@ -13,6 +13,9 @@
 - [![Maven Central](
     https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.txtparser/text-parser/badge.svg
 )]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.txtparser/text-parser) [Text Content Parser](https://github.com/bogdanovmn/java-text-parser)
+- [![Maven Central](
+    https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.httpclient.core/http-client-core/badge.svg
+)]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.httpclient.core/http-client-core) [HTTP client](https://github.com/bogdanovmn/java-http-client)
 ## 🛠️ Tools
 - 🔗 [Graph Builder](https://github.com/bogdanovmn/graph-builder)
 - ⏳ [Log Analizer](https://github.com/bogdanovmn/slow-log-analyze)
