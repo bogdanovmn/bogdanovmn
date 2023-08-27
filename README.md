@@ -5,8 +5,8 @@
     https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.projecteuler.framework/project-euler-framework/badge.svg
 )]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.projecteuler.framework/project-euler-framework) [Project Euler Framework](https://github.com/bogdanovmn/project-euler-framework) 
 - [![Maven Central](
-    https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.cmdline/cmdline-app/badge.svg
-)]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.cmdline/cmdline-app) [CommandLine Args](https://github.com/bogdanovmn/java-cmdline-app) 
+    https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.jaclin/jaclin/badge.svg
+)]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.jaclin/jaclin) [Jaclin: CLI fluent API](https://github.com/bogdanovmn/jaclin) 
 - [![Maven Central](
     https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.humanreadablevalues/human-readable-values/badge.svg
 )]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.humanreadablevalues/human-readable-values) [Human Readable Values](https://github.com/bogdanovmn/java-human-readable-values)
