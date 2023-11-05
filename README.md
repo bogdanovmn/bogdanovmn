@@ -18,6 +18,7 @@
 )]( https://maven-badges.herokuapp.com/maven-central/com.github.bogdanovmn.httpclient.core/http-client-core) [HTTP client](https://github.com/bogdanovmn/java-http-client)
 ## 🛠️ Tools
 - 🔗 [Graph Builder](https://github.com/bogdanovmn/graph-builder)
-- ⏳ [Log Analizer](https://github.com/bogdanovmn/slow-log-analyze)
+- 🐌 [Log Time Analizer](https://github.com/bogdanovmn/slow-log-analyze)
+- 🌨️ [Java Log Spam Analyzer] (https://github.com/bogdanovmn/log-spam-analizer)
 - 🔧 [Docker Compose Manager](https://github.com/bogdanovmn/docker-compose-manager)
 - :calling: [Docker + JVM resources calculator](https://github.com/bogdanovmn/jvm-params-calculator) → [Try it](https://bmn85.ru/jcalc)
