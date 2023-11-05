@@ -19,6 +19,6 @@
 ## 🛠️ Tools
 - 🔗 [Graph Builder](https://github.com/bogdanovmn/graph-builder)
 - 🐌 [Log Time Analizer](https://github.com/bogdanovmn/slow-log-analyze)
-- 🌨️ [Java Log Spam Analyzer] (https://github.com/bogdanovmn/log-spam-analizer)
+- 🌨️ [Java Log Spam Analyzer](https://github.com/bogdanovmn/log-spam-analizer)
 - 🔧 [Docker Compose Manager](https://github.com/bogdanovmn/docker-compose-manager)
 - :calling: [Docker + JVM resources calculator](https://github.com/bogdanovmn/jvm-params-calculator) → [Try it](https://bmn85.ru/jcalc)
