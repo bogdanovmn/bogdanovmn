@@ -22,3 +22,5 @@
 - 🌨️ [Java Log Spam Analyzer](https://github.com/bogdanovmn/log-spam-analizer)
 - 🔧 [Docker Compose Manager](https://github.com/bogdanovmn/docker-compose-manager)
 - :calling: [Docker + JVM resources calculator](https://github.com/bogdanovmn/jvm-params-calculator) → [Try it](https://bmn85.ru/jcalc)
+## 🌏 Public services
+- 📈 [Badminton players rating history](https://bmn85.ru/brating/top)
